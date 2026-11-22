@@ -1,0 +1,7 @@
+{
+  "version": "0.2.0",
+  "url": "https://github.com/lo2y91/console-launcher-releases/releases/download/v0.2.0/console_launcher.exe",
+  "sha256": "8f77c8e6d319f640b01cc47805c2c9b4a13a4b79b45de0cc5f086d0884d0a089",
+  "notes": "Save states, in-game menu, favorites, TV mode and signed updates",
+  "sig": "4e44b314353ab7511d72e5d3b44e7ee191302e9ee1aa327656f8a460dc8260ebab279b809b7a4b8e2545e749e44fc2d43122bb613a1706878b88fdf261c68a0c"
+}
